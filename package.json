@@ -1,0 +1,20 @@
+{
+  "name": "ejercicio-lit",
+  "version": "0.0.1",
+  "description": "wjecicio Whishlist",
+  "main": "index.js",
+  "scripts": {
+    "start": "wds --node-resolve --watch --open"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Roberto",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lit": "^2.8.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.3.0"
+  }
+}
